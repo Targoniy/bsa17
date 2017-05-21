@@ -1,2 +1,22 @@
 # bsa17
-bsa17 test-repository
+#### 10 Study Tips to Achieve your Goals in 2017:
+
+1. Set Study Goals
+
+2. Make a Study Plan
+
+3. Take Regular Study Breaks
+
+4. Embrace New Technologies
+
+5. Test Yourself
+
+6. Find a Healthy Balance
+
+7. Be Positive
+
+8. Collaborate with Study Partners
+
+9. Turn lessons into stories
+
+10. Establish a Study Routine
