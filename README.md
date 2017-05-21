@@ -21,5 +21,5 @@
 
 10. Establish a Study Routine
 
-_i would like to add 11-th tip:_
+_i would like to add 11-th tip:_  
 11. Be patient
