@@ -23,3 +23,5 @@
 
 _i would like to add 11-th tip:_  
 11. Be patient
+
+12. Know all from the file "how_not_to_learn.txt"
